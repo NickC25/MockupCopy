@@ -1,0 +1,71 @@
+html {
+  font-family: Arial, Helvetical, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #8A8A8A;
+  font-weight: 900
+}
+.extraTop {
+  float: right;
+  display: inline-block;
+}
+#topLogo {
+  display: inline-block;
+}
+#navItems {
+  display: inline-block;
+  float:right;
+}
+#navItems li {
+  float: left;
+  display: inline-block;
+  margin: 0 2vw 0 2vw;
+  text-decoration: none;
+}
+#ending {
+  color: #8A8A8A;
+  font-size: 14px
+}
+#navBottom{
+  text-align: center;
+}
+
+#logins{
+  float: right;
+  display: inline-block;
+}
+
+#logins li {
+  float: left;
+  display: inline-block;
+  padding: 1vh 2vw 1vh 1vw;
+  margin: 0 1vh 0 0;
+  position: relative;
+  bottom: 1wh;
+  font-weight: 800;
+  color: white;
+  border-radius: 5px;
+}
+#signupB{
+  background-color: red;
+}
+
+#loginB{
+  background-color: blue;
+}
+
+#wrapper
+{
+    width: 600px;
+    background: white;
+    box-sizing: border-box;
+}
+
+.slide-container
+{
+    text-align: center;
+    width: 25%;
+    display: inline-block;
+    margin: 0px -4px;
+}
